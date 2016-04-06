@@ -9,6 +9,8 @@ package com.qh.app;
 public class Branch2Doing {
 
 	public void say(){
+
 		System.out.println("thisssss is branch2");
+
 	}
 }
